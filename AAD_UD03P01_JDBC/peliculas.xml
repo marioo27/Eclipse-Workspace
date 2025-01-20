@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<peliculas xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="peliculas.xsd">
+    <pelicula>
+        <titulo>Inception</titulo>
+        <anio>2010</anio>
+        <actores>
+            <actor protagonista="true">
+                <nombre>Leonardo</nombre>
+                <apellido>DiCaprio</apellido>
+            </actor>
+            <actor protagonista="false">
+                <nombre>Joseph</nombre>
+                <apellido>Gordon-Levitt</apellido>
+            </actor>
+            <actor protagonista="false">
+                <nombre>Elliot</nombre>
+                <apellido>Page</apellido>
+            </actor>
+        </actores>
+    </pelicula>
+    <pelicula>
+        <titulo>Matrix</titulo>
+        <anio>1999</anio>
+        <actores>
+            <actor protagonista="true">
+                <nombre>Keanu</nombre>
+                <apellido>Reeves</apellido>
+            </actor>
+            <actor protagonista="true">
+                <nombre>Carrie-Anne</nombre>
+                <apellido>Moss</apellido>
+            </actor>
+            <actor protagonista="false">
+                <nombre>Laurence</nombre>
+                <apellido>Fishburne</apellido>
+            </actor>
+        </actores>
+    </pelicula>
+    <pelicula>
+        <titulo>Interstellar</titulo>
+        <anio>2014</anio>
+        <actores>
+            <actor protagonista="true">
+                <nombre>Matthew</nombre>
+                <apellido>McConaughey</apellido>
+            </actor>
+            <actor protagonista="false">
+                <nombre>Anne</nombre>
+                <apellido>Hathaway</apellido>
+            </actor>
+            <actor protagonista="false">
+                <nombre>Jessica</nombre>
+                <apellido>Chastain</apellido>
+            </actor>
+        </actores>
+    </pelicula>
+    <pelicula>
+        <titulo>The Dark Knight</titulo>
+        <anio>2008</anio>
+        <actores>
+            <actor protagonista="true">
+                <nombre>Christian</nombre>
+                <apellido>Bale</apellido>
+            </actor>
+            <actor protagonista="true">
+                <nombre>Heath</nombre>
+                <apellido>Ledger</apellido>
+            </actor>
+            <actor protagonista="false">
+                <nombre>Michael</nombre>
+                <apellido>Caine</apellido>
+            </actor>
+        </actores>
+    </pelicula>
+    <pelicula>
+        <titulo>Avengers: Endgame</titulo>
+        <anio>2019</anio>
+        <actores>
+            <actor protagonista="true">
+                <nombre>Robert</nombre>
+                <apellido>Downey Jr.</apellido>
+            </actor>
+            <actor protagonista="true">
+                <nombre>Chris</nombre>
+                <apellido>Evans</apellido>
+            </actor>
+            <actor protagonista="false">
+                <nombre>Mark</nombre>
+                <apellido>Ruffalo</apellido>
+            </actor>
+            <actor protagonista="false">
+                <nombre>Scarlett</nombre>
+                <apellido>Johansson</apellido>
+            </actor>
+        </actores>
+    </pelicula>
+    <pelicula>
+        <titulo>Gladiator</titulo>
+        <anio>2000</anio>
+        <actores>
+            <actor protagonista="true">
+                <nombre>Russell</nombre>
+                <apellido>Crowe</apellido>
+            </actor>
+            <actor protagonista="false">
+                <nombre>Joaquin</nombre>
+                <apellido>Phoenix</apellido>
+            </actor>
+        </actores>
+    </pelicula>
+    <pelicula>
+        <titulo>Titanic</titulo>
+        <anio>1997</anio>
+        <actores>
+            <actor protagonista="true">
+                <nombre>Leonardo</nombre>
+                <apellido>DiCaprio</apellido>
+            </actor>
+            <actor protagonista="true">
+                <nombre>Kate</nombre>
+                <apellido>Winslet</apellido>
+            </actor>
+            <actor protagonista="false">
+                <nombre>Billy</nombre>
+                <apellido>Zane</apellido>
+            </actor>
+        </actores>
+    </pelicula>
+    <pelicula>
+        <titulo>The Godfather</titulo>
+        <anio>1972</anio>
+        <actores>
+            <actor protagonista="true">
+                <nombre>Marlon</nombre>
+                <apellido>Brando</apellido>
+            </actor>
+            <actor protagonista="false">
+                <nombre>Al</nombre>
+                <apellido>Pacino</apellido>
+            </actor>
+            <actor protagonista="false">
+                <nombre>James</nombre>
+                <apellido>Caan</apellido>
+            </actor>
+        </actores>
+    </pelicula>
+    <pelicula>
+        <titulo>Star Wars: A New Hope</titulo>
+        <anio>1977</anio>
+        <actores>
+            <actor protagonista="true">
+                <nombre>Mark</nombre>
+                <apellido>Hamill</apellido>
+            </actor>
+            <actor protagonista="true">
+                <nombre>Harrison</nombre>
+                <apellido>Ford</apellido>
+            </actor>
+            <actor protagonista="false">
+                <nombre>Carrie</nombre>
+                <apellido>Fisher</apellido>
+            </actor>
+        </actores>
+    </pelicula>
+    <pelicula>
+        <titulo>Forrest Gump</titulo>
+        <anio>1994</anio>
+        <actores>
+            <actor protagonista="true">
+                <nombre>Tom</nombre>
+                <apellido>Hanks</apellido>
+            </actor>
+            <actor protagonista="false">
+                <nombre>Robin</nombre>
+                <apellido>Wright</apellido>
+            </actor>
+        </actores>
+    </pelicula>
+</peliculas>

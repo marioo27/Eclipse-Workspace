@@ -1,0 +1,108 @@
+2024-10-30 10:58:51,376 [main] ERROR es.cuidadescolar.Main                    - Se esperaba un parametro [JSON]
+2024-10-30 10:59:02,830 [main] DEBUG es.cuidadescolar.Main                    - El fichero pasado como parametro es [C:\Users\alumno\eclipse-workspace\curso2425_UD2_Json2\alumnos.json]
+2024-10-30 10:59:02,847 [main] DEBUG es.cuidadescolar.JsonManager             - Comenzando a leer el fichero [C:\Users\alumno\eclipse-workspace\curso2425_UD2_Json2\alumnos.json]
+2024-10-30 10:59:02,847 [main] DEBUG es.cuidadescolar.JsonManager             - FInalizada la lectura del fichero [C:\Users\alumno\eclipse-workspace\curso2425_UD2_Json2\alumnos.json]
+2024-10-30 11:00:26,073 [main] DEBUG es.cuidadescolar.Main                    - El fichero pasado como parametro es [C:\Users\alumno\eclipse-workspace\curso2425_UD2_Json2\alumnos.json]
+2024-10-30 11:00:26,077 [main] DEBUG es.cuidadescolar.JsonManager             - Comenzando a leer el fichero [C:\Users\alumno\eclipse-workspace\curso2425_UD2_Json2\alumnos.json]
+2024-10-30 11:00:26,077 [main] DEBUG es.cuidadescolar.JsonManager             - FInalizada la lectura del fichero [C:\Users\alumno\eclipse-workspace\curso2425_UD2_Json2\alumnos.json]
+2024-10-30 11:00:26,085 [main] TRACE es.cuidadescolar.Main                    - El numero de pares dentro del Json es [4]
+2024-10-30 11:41:59,818 [main] DEBUG es.cuidadescolar.Main                    - El fichero pasado como parametro es [C:\Users\alumno\eclipse-workspace\curso2425_UD2_Json2\alumnos.json]
+2024-10-30 11:41:59,832 [main] DEBUG es.cuidadescolar.JsonManager             - Comenzando a leer el fichero [C:\Users\alumno\eclipse-workspace\curso2425_UD2_Json2\alumnos.json]
+2024-10-30 11:41:59,832 [main] DEBUG es.cuidadescolar.JsonManager             - FInalizada la lectura del fichero [C:\Users\alumno\eclipse-workspace\curso2425_UD2_Json2\alumnos.json]
+2024-10-30 11:41:59,839 [main] DEBUG es.cuidadescolar.JsonManager             - {"codigo":27015,"alumnos":[{"expediente":1111,"nombre":"carlitos","edad":21},{"expediente":2222,"nombre":"menganito","edad":18},{"expediente":3333,"nombre":"fermin","edad":24},{"expediente":4444,"nombre":"julito","edad":23}],"curso":"2024-2025","centro":"IES Ciudad Escolar"}
+2024-10-30 11:42:20,911 [main] DEBUG es.cuidadescolar.Main                    - El fichero pasado como parametro es [C:\Users\alumno\eclipse-workspace\curso2425_UD2_Json2\alumnos.json]
+2024-10-30 11:42:20,923 [main] DEBUG es.cuidadescolar.JsonManager             - Comenzando a leer el fichero [C:\Users\alumno\eclipse-workspace\curso2425_UD2_Json2\alumnos.json]
+2024-10-30 11:42:20,923 [main] DEBUG es.cuidadescolar.JsonManager             - FInalizada la lectura del fichero [C:\Users\alumno\eclipse-workspace\curso2425_UD2_Json2\alumnos.json]
+2024-10-30 11:42:20,932 [main] DEBUG es.cuidadescolar.JsonManager             - {"codigo":27015,"alumnos":[{"expediente":1111,"nombre":"carlitos","edad":21},{"expediente":2222,"nombre":"menganito","edad":18},{"expediente":3333,"nombre":"fermin","edad":24},{"expediente":4444,"nombre":"julito","edad":23}],"curso":"2024-2025","centro":"IES Ciudad Escolar"}
+2024-10-30 11:42:30,263 [main] DEBUG es.cuidadescolar.Main                    - El fichero pasado como parametro es [C:\Users\alumno\eclipse-workspace\curso2425_UD2_Json2\alumnos.json]
+2024-10-30 11:42:30,277 [main] DEBUG es.cuidadescolar.JsonManager             - Comenzando a leer el fichero [C:\Users\alumno\eclipse-workspace\curso2425_UD2_Json2\alumnos.json]
+2024-10-30 11:42:30,278 [main] DEBUG es.cuidadescolar.JsonManager             - FInalizada la lectura del fichero [C:\Users\alumno\eclipse-workspace\curso2425_UD2_Json2\alumnos.json]
+2024-10-30 11:42:30,285 [main] DEBUG es.cuidadescolar.JsonManager             - {
+  "codigo": 27015,
+  "alumnos": [
+    {
+      "expediente": 1111,
+      "nombre": "carlitos",
+      "edad": 21
+    },
+    {
+      "expediente": 2222,
+      "nombre": "menganito",
+      "edad": 18
+    },
+    {
+      "expediente": 3333,
+      "nombre": "fermin",
+      "edad": 24
+    },
+    {
+      "expediente": 4444,
+      "nombre": "julito",
+      "edad": 23
+    }
+  ],
+  "curso": "2024-2025",
+  "centro": "IES Ciudad Escolar"
+}
+2024-10-30 12:15:15,492 [main] DEBUG es.cuidadescolar.Main                    - El fichero pasado como parametro es [C:\Users\alumno\eclipse-workspace\curso2425_UD2_Json2\alumnos.json]
+2024-10-30 12:15:15,508 [main] DEBUG es.cuidadescolar.JsonManager             - Comenzando a leer el fichero [C:\Users\alumno\eclipse-workspace\curso2425_UD2_Json2\alumnos.json]
+2024-10-30 12:15:15,508 [main] DEBUG es.cuidadescolar.JsonManager             - FInalizada la lectura del fichero [C:\Users\alumno\eclipse-workspace\curso2425_UD2_Json2\alumnos.json]
+2024-10-30 12:15:15,524 [main] ERROR es.cuidadescolar.JsonManager             - No hay permisos de escritura en el fichero de salida [C:\Users\alumno\eclipse-workspace\curso2425_UD2_Json2\students.json]
+2024-10-30 12:15:15,526 [main] DEBUG es.cuidadescolar.JsonManager             - {
+  "codigo": 27015,
+  "alumnos": [
+    {
+      "expediente": 1111,
+      "nombre": "carlitos",
+      "edad": 21
+    },
+    {
+      "expediente": 2222,
+      "nombre": "menganito",
+      "edad": 18
+    },
+    {
+      "expediente": 3333,
+      "nombre": "fermin",
+      "edad": 24
+    },
+    {
+      "expediente": 4444,
+      "nombre": "julito",
+      "edad": 23
+    }
+  ],
+  "curso": "2024-2025",
+  "centro": "IES Ciudad Escolar"
+}
+2024-10-30 12:16:49,665 [main] DEBUG es.cuidadescolar.Main                    - El fichero pasado como parametro es [C:\Users\alumno\eclipse-workspace\curso2425_UD2_Json2\alumnos.json]
+2024-10-30 12:16:49,680 [main] DEBUG es.cuidadescolar.JsonManager             - Comenzando a leer el fichero [C:\Users\alumno\eclipse-workspace\curso2425_UD2_Json2\alumnos.json]
+2024-10-30 12:16:49,680 [main] DEBUG es.cuidadescolar.JsonManager             - FInalizada la lectura del fichero [C:\Users\alumno\eclipse-workspace\curso2425_UD2_Json2\alumnos.json]
+2024-10-30 12:16:49,689 [main] DEBUG es.cuidadescolar.JsonManager             - Fichero Json creado satisfactoriamente
+2024-10-30 12:16:49,689 [main] DEBUG es.cuidadescolar.JsonManager             - {
+  "codigo": 27015,
+  "alumnos": [
+    {
+      "expediente": 1111,
+      "nombre": "carlitos",
+      "edad": 21
+    },
+    {
+      "expediente": 2222,
+      "nombre": "menganito",
+      "edad": 18
+    },
+    {
+      "expediente": 3333,
+      "nombre": "fermin",
+      "edad": 24
+    },
+    {
+      "expediente": 4444,
+      "nombre": "julito",
+      "edad": 23
+    }
+  ],
+  "curso": "2024-2025",
+  "centro": "IES Ciudad Escolar"
+}

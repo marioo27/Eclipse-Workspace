@@ -1,0 +1,10 @@
+linea#1#texto
+linea#2#texto
+linea#3#texto
+linea#4#texto
+linea#5#texto
+linea#6#texto
+linea#7#texto
+linea#8#texto
+linea#9#texto
+linea#10#texto

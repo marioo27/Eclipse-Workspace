@@ -1,0 +1,83 @@
+2024-10-23 11:34:56,743 [main] ERROR es.ciudadescolar.xpath.Main              - Error de parametros, esperados [2], pasados [0]
+2024-10-23 11:36:45,918 [main] TRACE es.ciudadescolar.xpath.Main              - Comienzo de la aplicacion
+2024-10-23 11:36:45,924 [main] ERROR es.ciudadescolar.xpath.Main              - Error de parametros, esperados [2], pasados [0]
+2024-10-23 11:38:03,321 [main] TRACE es.ciudadescolar.xpath.Main              - Comienzo de la aplicacion
+2024-10-23 11:38:03,327 [main] ERROR es.ciudadescolar.xpath.Main              - Error de parametros, esperados [2], pasados [0]
+2024-10-23 11:38:22,661 [main] TRACE es.ciudadescolar.xpath.Main              - Comienzo de la aplicacion
+2024-10-23 11:38:22,664 [main] TRACE es.ciudadescolar.xpath.Main              - El fichero xml pasado por parametro es [C:\Users\alumno\eclipse-workspace\curso2425_UD2_XmlDOM_XPath\alumnos3.xml
+2024-10-23 11:38:22,665 [main] TRACE es.ciudadescolar.xpath.Main              - El fichero xsd pasado por parametro es [C:\Users\alumno\eclipse-workspace\curso2425_UD2_XmlDOM_XPath\alumnos3.xsd
+2024-10-23 11:38:35,929 [main] TRACE es.ciudadescolar.xpath.Main              - Comienzo de la aplicacion
+2024-10-23 11:38:35,933 [main] TRACE es.ciudadescolar.xpath.Main              - El fichero xml pasado por parametro es [C:\Users\alumno\eclipse-workspace\curso2425_UD2_XmlDOM_XPath\alumnos3.xml
+2024-10-23 11:38:35,933 [main] TRACE es.ciudadescolar.xpath.Main              - El fichero xsd pasado por parametro es [C:\Users\alumno\eclipse-workspace\curso2425_UD2_XmlDOM_XPath\alumnos3.xsd
+2024-10-23 11:39:37,357 [main] TRACE es.ciudadescolar.xpath.Main              - Comienzo de la aplicacion
+2024-10-23 11:39:37,361 [main] TRACE es.ciudadescolar.xpath.Main              - El fichero xml pasado por parametro es [C:\Users\alumno\eclipse-workspace\curso2425_UD2_XmlDOM_XPath\alumnos3.xml
+2024-10-23 11:39:37,361 [main] TRACE es.ciudadescolar.xpath.Main              - El fichero xsd pasado por parametro es [C:\Users\alumno\eclipse-workspace\curso2425_UD2_XmlDOM_XPath\alumnos3.xsd
+2024-10-23 11:39:37,409 [main] INFO  es.ciudadescolar.xpath.Main              - Se ha parseado correctamente el xml
+2024-10-23 11:39:52,467 [main] TRACE es.ciudadescolar.xpath.Main              - Comienzo de la aplicacion
+2024-10-23 11:39:52,470 [main] TRACE es.ciudadescolar.xpath.Main              - El fichero xml pasado por parametro es [C:\Users\alumno\eclipse-workspace\curso2425_UD2_XmlDOM_XPath\alumnos3.xml
+2024-10-23 11:39:52,471 [main] TRACE es.ciudadescolar.xpath.Main              - El fichero xsd pasado por parametro es [C:\Users\alumno\eclipse-workspace\curso2425_UD2_XmlDOM_XPath\alumnos3.xsd
+2024-10-23 11:39:52,518 [main] INFO  es.ciudadescolar.xpath.Main              - Se ha parseado correctamente el xml
+2024-10-23 11:42:22,379 [main] TRACE es.ciudadescolar.xpath.Main              - Comienzo de la aplicacion
+2024-10-23 11:42:22,383 [main] TRACE es.ciudadescolar.xpath.Main              - El fichero xml pasado por parametro es [C:\Users\alumno\eclipse-workspace\curso2425_UD2_XmlDOM_XPath\alumnos3.xml
+2024-10-23 11:42:22,383 [main] TRACE es.ciudadescolar.xpath.Main              - El fichero xsd pasado por parametro es [C:\Users\alumno\eclipse-workspace\curso2425_UD2_XmlDOM_XPath\alumnos3.xsd
+2024-10-23 11:42:22,430 [main] INFO  es.ciudadescolar.xpath.Main              - Se ha parseado correctamente el xml
+2024-10-23 11:42:22,453 [main] INFO  es.ciudadescolar.xpath.Main              - Alumno [expediente=33333, nombre=fermin, edad=24, curso=Ciudad Escolar, 24-25]
+2024-10-23 11:42:22,454 [main] INFO  es.ciudadescolar.xpath.Main              - Alumno [expediente=11111, nombre=carlitos, edad=21, curso=, 23-24]
+2024-10-23 11:43:22,081 [main] TRACE es.ciudadescolar.xpath.Main              - Comienzo de la aplicacion
+2024-10-23 11:43:22,085 [main] TRACE es.ciudadescolar.xpath.Main              - El fichero xml pasado por parametro es [C:\Users\alumno\eclipse-workspace\curso2425_UD2_XmlDOM_XPath\alumnos3.xml
+2024-10-23 11:43:22,085 [main] TRACE es.ciudadescolar.xpath.Main              - El fichero xsd pasado por parametro es [C:\Users\alumno\eclipse-workspace\curso2425_UD2_XmlDOM_XPath\alumnos3.xsd
+2024-10-23 11:43:22,131 [main] INFO  es.ciudadescolar.xpath.Main              - Se ha parseado correctamente el xml
+2024-10-23 11:43:22,153 [main] INFO  es.ciudadescolar.xpath.Main              - Alumno [expediente=33333, nombre=fermin, edad=24, curso=Ciudad Escolar, 24-25]
+2024-10-23 11:43:22,154 [main] INFO  es.ciudadescolar.xpath.Main              - Alumno [expediente=11111, nombre=carlitos, edad=21, curso=, 23-24]
+2024-10-23 11:43:22,155 [main] INFO  es.ciudadescolar.xpath.Main              - Alumno [expediente=22222, nombre=menganito, edad=28, curso=, 24-25]
+2024-10-23 11:43:37,468 [main] TRACE es.ciudadescolar.xpath.Main              - Comienzo de la aplicacion
+2024-10-23 11:43:37,472 [main] TRACE es.ciudadescolar.xpath.Main              - El fichero xml pasado por parametro es [C:\Users\alumno\eclipse-workspace\curso2425_UD2_XmlDOM_XPath\alumnos3.xml
+2024-10-23 11:43:37,472 [main] TRACE es.ciudadescolar.xpath.Main              - El fichero xsd pasado por parametro es [C:\Users\alumno\eclipse-workspace\curso2425_UD2_XmlDOM_XPath\alumnos3.xsd
+2024-10-23 11:43:37,519 [main] INFO  es.ciudadescolar.xpath.Main              - Se ha parseado correctamente el xml
+2024-10-23 11:43:37,540 [main] INFO  es.ciudadescolar.xpath.Main              - Alumno [expediente=33333, nombre=fermin, edad=24, curso=Ciudad Escolar, 24-25]
+2024-10-23 11:43:37,542 [main] INFO  es.ciudadescolar.xpath.Main              - Alumno [expediente=11111, nombre=carlitos, edad=21, curso=, 23-24]
+2024-10-23 11:44:57,399 [main] TRACE es.ciudadescolar.xpath.Main              - Comienzo de la aplicacion
+2024-10-23 11:44:57,402 [main] TRACE es.ciudadescolar.xpath.Main              - El fichero xml pasado por parametro es [C:\Users\alumno\eclipse-workspace\curso2425_UD2_XmlDOM_XPath\alumnos3.xml
+2024-10-23 11:44:57,403 [main] TRACE es.ciudadescolar.xpath.Main              - El fichero xsd pasado por parametro es [C:\Users\alumno\eclipse-workspace\curso2425_UD2_XmlDOM_XPath\alumnos3.xsd
+2024-10-23 11:44:57,449 [main] INFO  es.ciudadescolar.xpath.Main              - Se ha parseado correctamente el xml
+2024-10-23 11:44:57,449 [main] INFO  es.ciudadescolar.xpath.Main              - Se va a consultar por Xpath el alumno con el expediente [33333]
+2024-10-23 11:44:57,449 [main] TRACE es.ciudadescolar.xpath.Main              - Se ha consultado por Xpath el alumno con el expediente [33333]
+2024-10-23 11:44:57,471 [main] INFO  es.ciudadescolar.xpath.Main              - Alumno [expediente=33333, nombre=fermin, edad=24, curso=Ciudad Escolar, 24-25]
+2024-10-23 11:44:57,472 [main] INFO  es.ciudadescolar.xpath.Main              - Alumno [expediente=11111, nombre=carlitos, edad=21, curso=, 23-24]
+2024-10-23 11:45:51,206 [main] INFO  es.ciudadescolar.xpath.Main              - Se ha parseado correctamente el xml
+2024-10-23 11:45:51,209 [main] INFO  es.ciudadescolar.xpath.Main              - Se va a consultar por Xpath el alumno con el expediente [33333]
+2024-10-23 11:45:51,231 [main] INFO  es.ciudadescolar.xpath.Main              - Alumno [expediente=33333, nombre=fermin, edad=24, curso=Ciudad Escolar, 24-25]
+2024-10-23 11:45:51,233 [main] INFO  es.ciudadescolar.xpath.Main              - Alumno [expediente=11111, nombre=carlitos, edad=21, curso=, 23-24]
+2024-10-23 11:45:57,367 [main] INFO  es.ciudadescolar.xpath.Main              - Se ha parseado correctamente el xml
+2024-10-23 11:45:57,371 [main] INFO  es.ciudadescolar.xpath.Main              - Se va a consultar por Xpath el alumno con el expediente [33333]
+2024-10-23 11:45:57,393 [main] INFO  es.ciudadescolar.xpath.Main              - Alumno [expediente=33333, nombre=fermin, edad=24, curso=Ciudad Escolar, 24-25]
+2024-10-23 11:45:57,394 [main] INFO  es.ciudadescolar.xpath.Main              - Alumno [expediente=11111, nombre=carlitos, edad=21, curso=, 23-24]
+2024-10-23 11:45:57,395 [main] INFO  es.ciudadescolar.xpath.Main              - Alumno [expediente=22222, nombre=menganito, edad=28, curso=, 24-25]
+2024-10-23 11:46:49,589 [main] INFO  es.ciudadescolar.xpath.Main              - Se ha parseado correctamente el xml
+2024-10-23 11:46:49,592 [main] INFO  es.ciudadescolar.xpath.Main              - Se va a consultar por Xpath el alumno con el expediente [33333]
+2024-10-23 11:46:49,614 [main] INFO  es.ciudadescolar.xpath.Main              - Alumno [expediente=33333, nombre=fermin, edad=24, curso=Ciudad Escolar, 24-25]
+2024-10-23 11:46:49,615 [main] INFO  es.ciudadescolar.xpath.Main              - Alumno [expediente=11111, nombre=carlitos, edad=21, curso=, 23-24]
+2024-10-23 11:46:49,616 [main] INFO  es.ciudadescolar.xpath.Main              - Alumno [expediente=22222, nombre=menganito, edad=28, curso=, 24-25]
+2024-10-23 11:50:21,585 [main] INFO  es.ciudadescolar.xpath.Main              - Se ha parseado correctamente el xml
+2024-10-23 11:50:21,588 [main] INFO  es.ciudadescolar.xpath.Main              - Se va a consultar por Xpath el alumno con el expediente [33333]
+2024-10-23 11:50:21,610 [main] INFO  es.ciudadescolar.xpath.Main              - Alumno [expediente=33333, nombre=fermin, edad=24, curso=Ciudad Escolar, 24-25]
+2024-10-23 11:50:21,611 [main] INFO  es.ciudadescolar.xpath.Main              - Alumno [expediente=11111, nombre=carlitos, edad=21, curso=, 23-24]
+2024-10-23 11:53:56,823 [main] INFO  es.ciudadescolar.xpath.Main              - Se ha parseado correctamente el xml
+2024-10-23 11:53:56,826 [main] INFO  es.ciudadescolar.xpath.Main              - Se va a consultar por Xpath el alumno con el expediente [33333]
+2024-10-23 11:53:56,848 [main] INFO  es.ciudadescolar.xpath.Main              - Alumno [expediente=33333, nombre=fermin, edad=24, curso=Ciudad Escolar, 24-25]
+2024-10-23 11:53:56,849 [main] INFO  es.ciudadescolar.xpath.Main              - Alumno [expediente=11111, nombre=carlitos, edad=21, curso=, 23-24]
+2024-10-23 11:53:56,850 [main] INFO  es.ciudadescolar.xpath.Main              - Alumno [expediente=22222, nombre=menganito, edad=28, curso=, 24-25]
+2024-10-23 11:54:19,857 [main] TRACE es.ciudadescolar.xpath.Main              - Comienzo de la aplicacion
+2024-10-23 11:54:19,861 [main] TRACE es.ciudadescolar.xpath.Main              - El fichero xml pasado por parametro es [C:\Users\alumno\eclipse-workspace\curso2425_UD2_XmlDOM_XPath\alumnos3.xml
+2024-10-23 11:54:19,861 [main] TRACE es.ciudadescolar.xpath.Main              - El fichero xsd pasado por parametro es [C:\Users\alumno\eclipse-workspace\curso2425_UD2_XmlDOM_XPath\alumnos3.xsd
+2024-10-23 11:54:19,862 [main] TRACE es.ciudadescolar.xpath.XmlManager        - Preparando el document builder factory: espacios en blanco, validacion no DTD, namespace por defecto...
+2024-10-23 11:54:19,863 [main] TRACE es.ciudadescolar.xpath.XmlManager        - Preparando el schema factory...
+2024-10-23 11:54:19,871 [main] TRACE es.ciudadescolar.xpath.XmlManager        - Preparando el schema a partir del fichero xsd [C:\Users\alumno\eclipse-workspace\curso2425_UD2_XmlDOM_XPath\alumnos3.xsd]
+2024-10-23 11:54:19,902 [main] TRACE es.ciudadescolar.xpath.XmlManager        - Comenzando el parseo del fichero xml [C:\Users\alumno\eclipse-workspace\curso2425_UD2_XmlDOM_XPath\alumnos3.xml]
+2024-10-23 11:54:19,907 [main] TRACE es.ciudadescolar.xpath.XmlManager        - Terminado el parseo del fichero xml [C:\Users\alumno\eclipse-workspace\curso2425_UD2_XmlDOM_XPath\alumnos3.xml]
+2024-10-23 11:54:19,908 [main] INFO  es.ciudadescolar.xpath.Main              - Se ha parseado correctamente el xml
+2024-10-23 11:54:19,908 [main] INFO  es.ciudadescolar.xpath.Main              - Se va a consultar por Xpath el alumno con el expediente [33333]
+2024-10-23 11:54:19,908 [main] TRACE es.ciudadescolar.xpath.Main              - Se ha consultado por Xpath el alumno con el expediente [33333]
+2024-10-23 11:54:19,930 [main] INFO  es.ciudadescolar.xpath.Main              - Alumno [expediente=33333, nombre=fermin, edad=24, curso=Ciudad Escolar, 24-25]
+2024-10-23 11:54:19,931 [main] INFO  es.ciudadescolar.xpath.Main              - Alumno [expediente=11111, nombre=carlitos, edad=21, curso=, 23-24]
+2024-10-23 11:54:19,932 [main] INFO  es.ciudadescolar.xpath.Main              - Alumno [expediente=22222, nombre=menganito, edad=28, curso=, 24-25]

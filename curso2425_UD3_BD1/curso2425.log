@@ -1,0 +1,79 @@
+2024-11-26 11:42:53,783 [main] DEBUG es.ciudadescolar.DbManager               - Se ha registrado correctamente el driver: com.mysql.cj.jdbc.Driver
+2024-11-26 11:42:54,220 [main] DEBUG es.ciudadescolar.DbManager               - Se ha creado correctamente la conexion
+2024-11-26 11:42:54,224 [main] DEBUG es.ciudadescolar.DbManager               - Se va a ejecutar la query [SELECT expediente, nombre, nota_raices FROM alumnos]
+2024-11-26 11:42:54,258 [main] DEBUG es.ciudadescolar.DbManager               - Se ha ejecutado la query previa
+2024-11-26 11:42:54,273 [main] INFO  es.ciudadescolar.Programa                - Alumno [expediente=1, nombre=Manolo, nota=9]
+2024-11-26 11:42:54,307 [main] INFO  es.ciudadescolar.Programa                - Alumno [expediente=2, nombre=Fermin, nota=4]
+2024-11-26 11:42:54,307 [main] INFO  es.ciudadescolar.Programa                - Alumno [expediente=3, nombre=Dario, nota=0]
+2024-11-26 11:42:54,307 [main] INFO  es.ciudadescolar.Programa                - Alumno [expediente=5, nombre=Juan, nota=0]
+2024-11-26 11:43:47,658 [main] DEBUG es.ciudadescolar.DbManager               - Se ha registrado correctamente el driver: com.mysql.cj.jdbc.Driver
+2024-11-26 11:43:48,050 [main] DEBUG es.ciudadescolar.DbManager               - Se ha creado correctamente la conexion
+2024-11-26 11:43:48,054 [main] DEBUG es.ciudadescolar.DbManager               - Se va a ejecutar la query [SELECT expediente, nombre, nota_raices FROM alumnos]
+2024-11-26 11:43:48,086 [main] DEBUG es.ciudadescolar.DbManager               - Se ha ejecutado la query previa
+2024-11-26 11:43:48,092 [main] INFO  es.ciudadescolar.Programa                - Alumno [expediente=1, nombre=Manolo, nota=9]
+2024-11-26 11:43:48,092 [main] INFO  es.ciudadescolar.Programa                - Alumno [expediente=2, nombre=Fermin, nota=4]
+2024-11-26 11:43:48,092 [main] INFO  es.ciudadescolar.Programa                - Alumno [expediente=3, nombre=Dario, nota=0]
+2024-11-26 11:43:48,092 [main] INFO  es.ciudadescolar.Programa                - Alumno [expediente=5, nombre=Juan, nota=0]
+2024-11-26 11:43:48,094 [main] DEBUG es.ciudadescolar.DbManager               - Se ha cerrado correctamente la conexion de la BD
+2024-11-26 11:49:00,227 [main] DEBUG es.ciudadescolar.DbManager               - Se ha registrado correctamente el driver: com.mysql.cj.jdbc.Driver
+2024-11-26 11:49:00,627 [main] DEBUG es.ciudadescolar.DbManager               - Se ha creado correctamente la conexion
+2024-11-26 11:49:00,631 [main] DEBUG es.ciudadescolar.DbManager               - Se va a ejecutar la query [SELECT expediente, nombre, nota_raices FROM alumnos WHERE expediente > 3]
+2024-11-26 11:49:00,664 [main] DEBUG es.ciudadescolar.DbManager               - Se ha ejecutado la query previa
+2024-11-26 11:49:00,668 [main] INFO  es.ciudadescolar.Programa                - Alumno [expediente=5, nombre=Juan, nota=0]
+2024-11-26 11:49:00,670 [main] DEBUG es.ciudadescolar.DbManager               - Se ha cerrado correctamente la conexion de la BD
+2024-11-26 12:08:01,800 [main] DEBUG es.ciudadescolar.DbManager               - Se ha registrado correctamente el driver: com.mysql.cj.jdbc.Driver
+2024-11-26 12:08:02,229 [main] DEBUG es.ciudadescolar.DbManager               - Se ha creado correctamente la conexion
+2024-11-26 12:08:02,232 [main] DEBUG es.ciudadescolar.DbManager               - Se va a ejecutar la query [SELECT expediente, nombre, nota_raices FROM alumnos WHERE expediente > 3]
+2024-11-26 12:08:02,264 [main] DEBUG es.ciudadescolar.DbManager               - Se ha ejecutado la query previa
+2024-11-26 12:08:02,269 [main] INFO  es.ciudadescolar.Programa                - Alumno [expediente=5, nombre=Juan, nota=0]
+2024-11-26 12:08:02,276 [main] WARN  es.ciudadescolar.Programa                - No hay ningun alumno con ese expediente
+2024-11-26 12:08:02,279 [main] DEBUG es.ciudadescolar.DbManager               - Se ha cerrado correctamente la conexion de la BD
+2024-11-26 12:08:39,894 [main] DEBUG es.ciudadescolar.DbManager               - Se ha registrado correctamente el driver: com.mysql.cj.jdbc.Driver
+2024-11-26 12:08:40,304 [main] DEBUG es.ciudadescolar.DbManager               - Se ha creado correctamente la conexion
+2024-11-26 12:08:40,308 [main] DEBUG es.ciudadescolar.DbManager               - Se va a ejecutar la query [SELECT expediente, nombre, nota_raices FROM alumnos WHERE expediente > 3]
+2024-11-26 12:08:40,345 [main] DEBUG es.ciudadescolar.DbManager               - Se ha ejecutado la query previa
+2024-11-26 12:08:40,350 [main] INFO  es.ciudadescolar.Programa                - Alumno [expediente=5, nombre=Juan, nota=0]
+2024-11-26 12:08:40,358 [main] WARN  es.ciudadescolar.Programa                - No hay ningun alumno con ese expediente
+2024-11-26 12:08:40,361 [main] DEBUG es.ciudadescolar.DbManager               - Se ha cerrado correctamente la conexion de la BD
+2024-12-04 10:31:29,014 [main] DEBUG es.ciudadescolar.DbManager               - Se ha registrado correctamente el driver: com.mysql.cj.jdbc.Driver
+2024-12-04 10:31:37,937 [main] DEBUG es.ciudadescolar.DbManager               - Se ha registrado correctamente el driver: com.mysql.cj.jdbc.Driver
+2024-12-04 10:31:50,166 [main] ERROR es.ciudadescolar.DbManager               - Error estableciendo conexion con la base de datos: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2024-12-04 10:31:50,166 [main] WARN  es.ciudadescolar.DbManager               - No se ha consultado alumnos porque la conexion esta sin inicializar
+2024-12-04 10:31:50,166 [main] WARN  es.ciudadescolar.DbManager               - No se ha recuperado ningun alumno
+2024-12-04 10:31:59,089 [main] ERROR es.ciudadescolar.DbManager               - Error estableciendo conexion con la base de datos: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2024-12-04 10:31:59,089 [main] WARN  es.ciudadescolar.DbManager               - No se ha consultado alumnos porque la conexion esta sin inicializar
+2024-12-04 10:31:59,089 [main] WARN  es.ciudadescolar.DbManager               - No se ha recuperado ningun alumno
+2024-12-04 10:32:47,823 [main] DEBUG es.ciudadescolar.DbManager               - Se ha registrado correctamente el driver: com.mysql.cj.jdbc.Driver
+2024-12-04 10:32:59,394 [main] DEBUG es.ciudadescolar.DbManager               - Se ha registrado correctamente el driver: com.mysql.cj.jdbc.Driver
+2024-12-04 10:33:08,985 [main] ERROR es.ciudadescolar.DbManager               - Error estableciendo conexion con la base de datos: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2024-12-04 10:33:08,985 [main] WARN  es.ciudadescolar.DbManager               - No se ha consultado alumnos porque la conexion esta sin inicializar
+2024-12-04 10:33:08,985 [main] WARN  es.ciudadescolar.DbManager               - No se ha recuperado ningun alumno
+2024-12-04 10:33:20,531 [main] ERROR es.ciudadescolar.DbManager               - Error estableciendo conexion con la base de datos: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2024-12-04 10:33:20,531 [main] WARN  es.ciudadescolar.DbManager               - No se ha consultado alumnos porque la conexion esta sin inicializar
+2024-12-04 10:33:20,531 [main] WARN  es.ciudadescolar.DbManager               - No se ha recuperado ningun alumno
+2024-12-04 10:34:13,576 [main] DEBUG es.ciudadescolar.DbManager               - Se ha registrado correctamente el driver: com.mysql.cj.jdbc.Driver
+2024-12-04 10:34:34,732 [main] ERROR es.ciudadescolar.DbManager               - Error estableciendo conexion con la base de datos: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2024-12-04 10:34:34,732 [main] WARN  es.ciudadescolar.DbManager               - No se ha consultado alumnos porque la conexion esta sin inicializar
+2024-12-04 10:34:34,732 [main] WARN  es.ciudadescolar.DbManager               - No se ha recuperado ningun alumno
+2024-12-05 13:09:17,397 [main] DEBUG es.ciudadescolar.DbManager               - Se ha registrado correctamente el driver: com.mysql.cj.jdbc.Driver
+2024-12-05 13:09:38,629 [main] ERROR es.ciudadescolar.DbManager               - Error estableciendo conexion con la base de datos: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2024-12-05 13:09:38,629 [main] WARN  es.ciudadescolar.DbManager               - No se ha consultado alumnos porque la conexion esta sin inicializar
+2024-12-05 13:09:38,629 [main] WARN  es.ciudadescolar.DbManager               - No se ha recuperado ningun alumno
+2024-12-17 09:02:08,710 [main] DEBUG es.ciudadescolar.DbManager               - Se ha registrado correctamente el driver: com.mysql.cj.jdbc.Driver
+2024-12-17 09:02:29,893 [main] ERROR es.ciudadescolar.DbManager               - Error estableciendo conexion con la base de datos: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2024-12-17 09:02:29,894 [main] WARN  es.ciudadescolar.DbManager               - No se ha consultado alumnos porque la conexion esta sin inicializar
+2024-12-17 09:02:29,894 [main] WARN  es.ciudadescolar.DbManager               - No se ha recuperado ningun alumno

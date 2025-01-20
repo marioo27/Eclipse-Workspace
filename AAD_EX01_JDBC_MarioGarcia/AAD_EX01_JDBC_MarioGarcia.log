@@ -1,0 +1,80 @@
+2024-12-18 10:21:17,505 [main] ERROR es.aad.DbManager                         - Error registrando el Driver y el fichero de propiedades [Unknown database '127.0.0.1:3306/crm']
+2024-12-18 10:21:36,364 [main] DEBUG es.aad.DbManager                         - Conexion establecida
+2024-12-18 10:21:36,369 [main] DEBUG es.aad.DbManager                         - Conexion cerrada con exito
+2024-12-18 10:36:21,406 [main] DEBUG es.aad.DbManager                         - Conexion establecida
+2024-12-18 10:36:21,426 [main] DEBUG es.aad.DbManager                         - Conexion cerrada con exito
+2024-12-18 10:37:45,303 [main] DEBUG es.aad.DbManager                         - Conexion establecida
+2024-12-18 10:37:45,321 [main] DEBUG es.aad.Programa                          - Productos dados de alta transaccionalmente con exito
+2024-12-18 10:37:45,324 [main] DEBUG es.aad.DbManager                         - Conexion cerrada con exito
+2024-12-18 10:39:28,549 [main] DEBUG es.aad.DbManager                         - Conexion establecida
+2024-12-18 10:39:28,568 [main] DEBUG es.aad.Programa                          - Productos dados de alta transaccionalmente con exito
+2024-12-18 10:39:28,569 [main] TRACE es.aad.Programa                          - Commit realizado, los productos han sido dados de alta
+2024-12-18 10:39:28,572 [main] DEBUG es.aad.DbManager                         - Conexion cerrada con exito
+2024-12-18 10:55:37,389 [main] DEBUG es.aad.DbManager                         - Conexion establecida
+2024-12-18 10:55:37,406 [main] DEBUG es.aad.Programa                          - Productos dados de alta transaccionalmente con exito
+2024-12-18 10:55:37,409 [main] TRACE es.aad.Programa                          - Commit realizado, los productos han sido dados de alta
+2024-12-18 10:55:37,471 [main] ERROR es.aad.DbManager                         - Error al ejecutar el CallableStatement [Before start of result set]
+2024-12-18 10:55:37,473 [main] DEBUG es.aad.DbManager                         - Conexion cerrada con exito
+2024-12-18 10:56:39,128 [main] DEBUG es.aad.DbManager                         - Conexion establecida
+2024-12-18 10:56:39,145 [main] DEBUG es.aad.Programa                          - Productos dados de alta transaccionalmente con exito
+2024-12-18 10:56:39,146 [main] TRACE es.aad.Programa                          - Commit realizado, los productos han sido dados de alta
+2024-12-18 10:56:39,201 [main] ERROR es.aad.DbManager                         - Error al ejecutar el CallableStatement [Before start of result set]
+2024-12-18 10:56:39,203 [main] DEBUG es.aad.DbManager                         - Conexion cerrada con exito
+2024-12-18 10:56:49,388 [main] DEBUG es.aad.DbManager                         - Conexion establecida
+2024-12-18 10:56:49,405 [main] DEBUG es.aad.Programa                          - Productos dados de alta transaccionalmente con exito
+2024-12-18 10:56:49,407 [main] TRACE es.aad.Programa                          - Commit realizado, los productos han sido dados de alta
+2024-12-18 10:56:49,464 [main] ERROR es.aad.DbManager                         - Error al ejecutar el CallableStatement [Before start of result set]
+2024-12-18 10:56:49,466 [main] DEBUG es.aad.DbManager                         - Conexion cerrada con exito
+2024-12-18 11:01:15,763 [main] DEBUG es.aad.DbManager                         - Conexion establecida
+2024-12-18 11:01:15,778 [main] DEBUG es.aad.Programa                          - Productos dados de alta transaccionalmente con exito
+2024-12-18 11:01:15,780 [main] TRACE es.aad.Programa                          - Commit realizado, los productos han sido dados de alta
+2024-12-18 11:01:15,838 [main] ERROR es.aad.DbManager                         - Error al ejecutar el CallableStatement [Before start of result set]
+2024-12-18 11:01:15,840 [main] DEBUG es.aad.DbManager                         - Conexion cerrada con exito
+2024-12-18 11:01:59,150 [main] DEBUG es.aad.DbManager                         - Conexion establecida
+2024-12-18 11:01:59,166 [main] DEBUG es.aad.Programa                          - Productos dados de alta transaccionalmente con exito
+2024-12-18 11:01:59,169 [main] TRACE es.aad.Programa                          - Commit realizado, los productos han sido dados de alta
+2024-12-18 11:01:59,224 [main] TRACE es.aad.DbManager                         - El total de ventas del cliente 1 es 20.86
+2024-12-18 11:01:59,227 [main] DEBUG es.aad.DbManager                         - Conexion cerrada con exito
+2024-12-18 11:02:22,801 [main] DEBUG es.aad.DbManager                         - Conexion establecida
+2024-12-18 11:02:22,818 [main] DEBUG es.aad.Programa                          - Productos dados de alta transaccionalmente con exito
+2024-12-18 11:02:22,819 [main] TRACE es.aad.Programa                          - Commit realizado, los productos han sido dados de alta
+2024-12-18 11:02:22,873 [main] TRACE es.aad.DbManager                         - El total de ventas del cliente 1 es 20.86
+2024-12-18 11:02:22,875 [main] DEBUG es.aad.DbManager                         - Conexion cerrada con exito
+2024-12-18 11:03:34,799 [main] DEBUG es.aad.DbManager                         - Conexion establecida
+2024-12-18 11:03:34,814 [main] DEBUG es.aad.Programa                          - Productos dados de alta transaccionalmente con exito
+2024-12-18 11:03:34,817 [main] TRACE es.aad.Programa                          - Commit realizado, los productos han sido dados de alta
+2024-12-18 11:03:34,870 [main] TRACE es.aad.DbManager                         - El total de ventas del cliente 1 es 20.86
+2024-12-18 11:03:34,871 [main] DEBUG es.aad.DbManager                         - com.mysql.cj.jdbc.result.ResultSetImpl@1c6804cd
+2024-12-18 11:03:34,875 [main] DEBUG es.aad.DbManager                         - Conexion cerrada con exito
+2024-12-18 11:15:22,024 [main] DEBUG es.aad.DbManager                         - Conexion establecida
+2024-12-18 11:15:22,040 [main] DEBUG es.aad.Programa                          - Productos dados de alta transaccionalmente con exito
+2024-12-18 11:15:22,041 [main] TRACE es.aad.Programa                          - Commit realizado, los productos han sido dados de alta
+2024-12-18 11:15:22,097 [main] TRACE es.aad.DbManager                         - El total de ventas del cliente 1 es 20.86
+2024-12-18 11:15:22,099 [main] DEBUG es.aad.DbManager                         - password
+2024-12-18 11:15:22,102 [main] DEBUG es.aad.DbManager                         - Conexion cerrada con exito
+2024-12-18 11:15:40,715 [main] DEBUG es.aad.DbManager                         - Conexion establecida
+2024-12-18 11:15:40,731 [main] DEBUG es.aad.Programa                          - Productos dados de alta transaccionalmente con exito
+2024-12-18 11:15:40,734 [main] TRACE es.aad.Programa                          - Commit realizado, los productos han sido dados de alta
+2024-12-18 11:15:40,787 [main] TRACE es.aad.DbManager                         - El total de ventas del cliente 1 es 20.86
+2024-12-18 11:15:40,791 [main] DEBUG es.aad.DbManager                         - Conexion cerrada con exito
+2024-12-18 11:15:52,026 [main] DEBUG es.aad.DbManager                         - Conexion establecida
+2024-12-18 11:15:52,042 [main] DEBUG es.aad.Programa                          - Productos dados de alta transaccionalmente con exito
+2024-12-18 11:15:52,044 [main] TRACE es.aad.Programa                          - Commit realizado, los productos han sido dados de alta
+2024-12-18 11:15:52,098 [main] TRACE es.aad.DbManager                         - El total de ventas del cliente 1 es 20.86
+2024-12-18 11:15:52,109 [main] TRACE es.aad.DbManager                         - Stock del producto 2 reducido
+2024-12-18 11:15:52,111 [main] DEBUG es.aad.DbManager                         - Conexion cerrada con exito
+2024-12-18 11:16:10,545 [main] DEBUG es.aad.DbManager                         - Conexion establecida
+2024-12-18 11:16:10,563 [main] DEBUG es.aad.Programa                          - Productos dados de alta transaccionalmente con exito
+2024-12-18 11:16:10,565 [main] TRACE es.aad.Programa                          - Commit realizado, los productos han sido dados de alta
+2024-12-18 11:16:10,619 [main] TRACE es.aad.DbManager                         - El total de ventas del cliente 1 es 20.86
+2024-12-18 11:16:10,627 [main] TRACE es.aad.DbManager                         - Stock del producto 2 reducido
+2024-12-18 11:16:10,633 [main] TRACE es.aad.DbManager                         - Stock del producto 2 reducido
+2024-12-18 11:16:10,639 [main] TRACE es.aad.DbManager                         - Stock del producto 2 reducido
+2024-12-18 11:16:10,645 [main] TRACE es.aad.DbManager                         - Stock del producto 2 reducido
+2024-12-18 11:16:10,647 [main] DEBUG es.aad.DbManager                         - Conexion cerrada con exito
+2024-12-18 11:16:16,444 [main] DEBUG es.aad.DbManager                         - Conexion establecida
+2024-12-18 11:16:16,460 [main] DEBUG es.aad.Programa                          - Productos dados de alta transaccionalmente con exito
+2024-12-18 11:16:16,462 [main] TRACE es.aad.Programa                          - Commit realizado, los productos han sido dados de alta
+2024-12-18 11:16:16,518 [main] TRACE es.aad.DbManager                         - El total de ventas del cliente 1 es 20.86
+2024-12-18 11:16:16,526 [main] TRACE es.aad.DbManager                         - Stock del producto 2 reducido
+2024-12-18 11:16:16,529 [main] DEBUG es.aad.DbManager                         - Conexion cerrada con exito

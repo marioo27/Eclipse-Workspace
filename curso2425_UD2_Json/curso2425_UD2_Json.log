@@ -1,0 +1,76 @@
+2024-10-29 11:55:55,297 [main] INFO  es.ciudadescolar.Main                    - JSON!
+2024-10-29 11:55:55,308 [main] DEBUG es.ciudadescolar.Main                    - {"Nombre":"Manolo","Edad":20,"Notas":[8.5,7,5.75]}
+2024-10-29 11:55:55,309 [main] DEBUG es.ciudadescolar.Main                    - {
+  "Nombre": "Manolo",
+  "Edad": 20,
+  "Notas": [
+    8.5,
+    7,
+    5.75
+  ]
+}
+2024-10-29 11:57:53,935 [main] INFO  es.ciudadescolar.Main                    - JSON!
+2024-10-29 11:57:53,946 [main] DEBUG es.ciudadescolar.Main                    - {
+   "Nombre": "Manolo",
+   "Edad": 20,
+   "Notas": [
+      8.5,
+      7,
+      5.75
+   ]
+}
+2024-10-29 11:57:58,941 [main] INFO  es.ciudadescolar.Main                    - JSON!
+2024-10-29 11:57:58,959 [main] DEBUG es.ciudadescolar.Main                    - {
+    "Nombre": "Manolo",
+    "Edad": 20,
+    "Notas": [
+        8.5,
+        7,
+        5.75
+    ]
+}
+2024-10-29 11:58:03,306 [main] INFO  es.ciudadescolar.Main                    - JSON!
+2024-10-29 11:58:03,319 [main] DEBUG es.ciudadescolar.Main                    - {
+  "Nombre": "Manolo",
+  "Edad": 20,
+  "Notas": [
+    8.5,
+    7,
+    5.75
+  ]
+}
+2024-10-29 11:58:56,130 [main] INFO  es.ciudadescolar.Main                    - JSON!
+2024-10-29 11:58:56,141 [main] DEBUG es.ciudadescolar.Main                    - {
+  "Nombre": "Manolo",
+  "Edad": 20,
+  "Notas": [
+    8.5,
+    7,
+    5.75
+  ]
+}
+2024-10-29 11:59:43,182 [main] INFO  es.ciudadescolar.Main                    - JSON!
+2024-10-29 11:59:43,193 [main] DEBUG es.ciudadescolar.Main                    - {
+  "Nombre": "Manolo",
+  "Edad": 20,
+  "Notas": [
+    8.5,
+    7,
+    5.75
+  ]
+}
+2024-10-29 12:04:40,901 [main] INFO  es.ciudadescolar.Main                    - JSON!
+2024-10-29 12:04:40,912 [main] DEBUG es.ciudadescolar.Main                    - {"Nombre":"Manolo","Edad":20,"Notas":[8.5,7,5.75]}
+2024-10-29 12:04:40,912 [main] DEBUG es.ciudadescolar.Main                    - {"Nombre":"Fermín","Edad":19,"Notas":[4.3,4.5,5]}
+2024-10-29 12:04:40,913 [main] DEBUG es.ciudadescolar.Main                    - {"Nombre":"Fermín","Edad":19,"Notas":[4.3,4.5,5]}
+2024-10-29 12:04:40,913 [main] DEBUG es.ciudadescolar.Main                    - {}
+2024-10-29 12:05:37,745 [main] INFO  es.ciudadescolar.Main                    - JSON!
+2024-10-29 12:05:37,756 [main] DEBUG es.ciudadescolar.Main                    - {"Nombre":"Manolo","Edad":20,"Notas":[8.5,7,5.75]}
+2024-10-29 12:05:37,757 [main] DEBUG es.ciudadescolar.Main                    - {"Nombre":"Manolo","Edad":20,"Notas":[8.5,7,5.75]}
+2024-10-29 12:05:37,757 [main] DEBUG es.ciudadescolar.Main                    - {"Nombre":"Manolo","Edad":20,"Notas":[8.5,7,5.75]}
+2024-10-29 12:05:37,758 [main] DEBUG es.ciudadescolar.Main                    - {"Nombre":"Fermín","Edad":19,"Notas":[4.3,4.5,5]}
+2024-10-30 10:58:38,537 [main] INFO  es.ciudadescolar.Main                    - JSON!
+2024-10-30 10:58:38,548 [main] DEBUG es.ciudadescolar.Main                    - {"Nombre":"Manolo","Edad":20,"Notas":[8.5,7,5.75]}
+2024-10-30 10:58:38,548 [main] DEBUG es.ciudadescolar.Main                    - {"Nombre":"Manolo","Edad":20,"Notas":[8.5,7,5.75]}
+2024-10-30 10:58:38,549 [main] DEBUG es.ciudadescolar.Main                    - {"Nombre":"Manolo","Edad":20,"Notas":[8.5,7,5.75]}
+2024-10-30 10:58:38,549 [main] DEBUG es.ciudadescolar.Main                    - {"Nombre":"Fermín","Edad":19,"Notas":[4.3,4.5,5]}

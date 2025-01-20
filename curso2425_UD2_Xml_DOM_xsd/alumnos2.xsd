@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" 	elementFormDefault="qualified">
+	<xsd:element name="estudiantes">
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element name="alumno" minOccurs="0"
+					maxOccurs="unbounded">
+					<xsd:complexType>
+						<xsd:sequence>
+							<xsd:element name="edad" minOccurs="0"
+								type="xsd:string" />
+						</xsd:sequence>
+						<xsd:attribute name="edad" type="xsd:string" />
+						<xsd:attribute name="exp" type="xsd:string" />
+						<xsd:attribute name="nom" type="xsd:string" />
+					</xsd:complexType>
+				</xsd:element>
+			</xsd:sequence>
+		</xsd:complexType>
+	</xsd:element>
+</xsd:schema>

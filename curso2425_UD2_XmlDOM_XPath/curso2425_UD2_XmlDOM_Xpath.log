@@ -1,0 +1,3 @@
+2024-10-23 11:01:29,688 [main] TRACE es.ciudadescolar.xpath.Main              - Comienzo de la aplicacion
+2024-10-23 11:33:02,063 [main] TRACE es.ciudadescolar.xpath.Main              - Comienzo de la aplicacion
+2024-10-23 11:33:02,069 [main] ERROR es.ciudadescolar.xpath.Main              - Error de parametros, esperados [2], pasados [0]

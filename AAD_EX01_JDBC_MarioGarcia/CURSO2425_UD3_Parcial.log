@@ -1,0 +1,125 @@
+2024-12-18 11:22:37,258 [main] DEBUG es.aad.DbManager                         - Conexion establecida
+2024-12-18 11:22:37,274 [main] DEBUG es.aad.Programa                          - Productos dados de alta transaccionalmente con exito
+2024-12-18 11:22:37,276 [main] TRACE es.aad.Programa                          - Commit realizado, los productos han sido dados de alta
+2024-12-18 11:22:37,328 [main] TRACE es.aad.DbManager                         - El total de ventas del cliente 1 es 20.86
+2024-12-18 11:22:37,336 [main] TRACE es.aad.DbManager                         - Stock del producto 2 reducido
+2024-12-18 11:22:37,378 [main] DEBUG es.aad.DbManager                         - Conexion cerrada con exito
+2024-12-18 11:22:42,249 [main] DEBUG es.aad.DbManager                         - Conexion establecida
+2024-12-18 11:22:42,265 [main] DEBUG es.aad.Programa                          - Productos dados de alta transaccionalmente con exito
+2024-12-18 11:22:42,299 [main] TRACE es.aad.Programa                          - Commit realizado, los productos han sido dados de alta
+2024-12-18 11:22:42,351 [main] TRACE es.aad.DbManager                         - El total de ventas del cliente 1 es 20.86
+2024-12-18 11:22:42,363 [main] TRACE es.aad.DbManager                         - Stock del producto 2 reducido
+2024-12-18 11:22:42,364 [main] DEBUG es.aad.DbManager                         - password
+2024-12-18 11:22:42,368 [main] DEBUG es.aad.DbManager                         - Conexion cerrada con exito
+2024-12-18 11:22:50,756 [main] DEBUG es.aad.DbManager                         - Conexion establecida
+2024-12-18 11:22:50,771 [main] DEBUG es.aad.Programa                          - Productos dados de alta transaccionalmente con exito
+2024-12-18 11:22:50,800 [main] TRACE es.aad.Programa                          - Commit realizado, los productos han sido dados de alta
+2024-12-18 11:22:50,853 [main] TRACE es.aad.DbManager                         - El total de ventas del cliente 1 es 20.86
+2024-12-18 11:22:50,862 [main] TRACE es.aad.DbManager                         - Stock del producto 2 reducido
+2024-12-18 11:22:50,864 [main] DEBUG es.aad.DbManager                         - password
+2024-12-18 11:22:50,867 [main] DEBUG es.aad.DbManager                         - Conexion cerrada con exito
+2024-12-18 11:23:24,283 [main] DEBUG es.aad.DbManager                         - Conexion establecida
+2024-12-18 11:23:24,299 [main] DEBUG es.aad.Programa                          - Productos dados de alta transaccionalmente con exito
+2024-12-18 11:23:24,302 [main] TRACE es.aad.Programa                          - Commit realizado, los productos han sido dados de alta
+2024-12-18 11:23:24,357 [main] TRACE es.aad.DbManager                         - El total de ventas del cliente 1 es 20.86
+2024-12-18 11:23:24,365 [main] TRACE es.aad.DbManager                         - Stock del producto 2 reducido
+2024-12-18 11:23:24,369 [main] ERROR es.aad.DbManager                         - Error al ejecutar el PreparedStatement [Before start of result set]
+2024-12-18 11:23:24,371 [main] DEBUG es.aad.DbManager                         - Conexion cerrada con exito
+2024-12-18 11:24:44,938 [main] DEBUG es.aad.DbManager                         - Conexion establecida
+2024-12-18 11:24:44,953 [main] DEBUG es.aad.Programa                          - Productos dados de alta transaccionalmente con exito
+2024-12-18 11:24:44,985 [main] TRACE es.aad.Programa                          - Commit realizado, los productos han sido dados de alta
+2024-12-18 11:24:45,035 [main] TRACE es.aad.DbManager                         - El total de ventas del cliente 1 es 20.86
+2024-12-18 11:24:45,043 [main] TRACE es.aad.DbManager                         - Stock del producto 2 reducido
+2024-12-18 11:24:45,044 [main] DEBUG es.aad.DbManager                         - com.mysql.cj.jdbc.result.ResultSetImpl@20a14b55
+2024-12-18 11:24:45,047 [main] DEBUG es.aad.DbManager                         - Conexion cerrada con exito
+2024-12-18 11:24:58,852 [main] DEBUG es.aad.DbManager                         - Conexion establecida
+2024-12-18 11:24:58,868 [main] DEBUG es.aad.Programa                          - Productos dados de alta transaccionalmente con exito
+2024-12-18 11:24:58,899 [main] TRACE es.aad.Programa                          - Commit realizado, los productos han sido dados de alta
+2024-12-18 11:24:58,948 [main] TRACE es.aad.DbManager                         - El total de ventas del cliente 1 es 20.86
+2024-12-18 11:24:58,955 [main] TRACE es.aad.DbManager                         - Stock del producto 2 reducido
+2024-12-18 11:24:58,960 [main] ERROR es.aad.DbManager                         - Error al ejecutar el PreparedStatement [Before start of result set]
+2024-12-18 11:24:58,962 [main] DEBUG es.aad.DbManager                         - Conexion cerrada con exito
+2024-12-18 11:25:12,319 [main] DEBUG es.aad.DbManager                         - Conexion establecida
+2024-12-18 11:25:12,334 [main] DEBUG es.aad.Programa                          - Productos dados de alta transaccionalmente con exito
+2024-12-18 11:25:12,368 [main] TRACE es.aad.Programa                          - Commit realizado, los productos han sido dados de alta
+2024-12-18 11:25:12,419 [main] TRACE es.aad.DbManager                         - El total de ventas del cliente 1 es 20.86
+2024-12-18 11:25:12,428 [main] TRACE es.aad.DbManager                         - Stock del producto 2 reducido
+2024-12-18 11:25:12,432 [main] ERROR es.aad.DbManager                         - Error al ejecutar el PreparedStatement [Before start of result set]
+2024-12-18 11:25:12,434 [main] DEBUG es.aad.DbManager                         - Conexion cerrada con exito
+2024-12-18 11:25:16,753 [main] DEBUG es.aad.DbManager                         - Conexion establecida
+2024-12-18 11:25:16,768 [main] DEBUG es.aad.Programa                          - Productos dados de alta transaccionalmente con exito
+2024-12-18 11:25:16,769 [main] TRACE es.aad.Programa                          - Commit realizado, los productos han sido dados de alta
+2024-12-18 11:25:16,826 [main] TRACE es.aad.DbManager                         - El total de ventas del cliente 1 es 20.86
+2024-12-18 11:25:16,834 [main] TRACE es.aad.DbManager                         - Stock del producto 2 reducido
+2024-12-18 11:25:16,838 [main] ERROR es.aad.DbManager                         - Error al ejecutar el PreparedStatement [Before start of result set]
+2024-12-18 11:25:16,841 [main] DEBUG es.aad.DbManager                         - Conexion cerrada con exito
+2024-12-18 11:26:46,211 [main] DEBUG es.aad.DbManager                         - Conexion establecida
+2024-12-18 11:26:46,227 [main] DEBUG es.aad.Programa                          - Productos dados de alta transaccionalmente con exito
+2024-12-18 11:26:46,229 [main] TRACE es.aad.Programa                          - Commit realizado, los productos han sido dados de alta
+2024-12-18 11:26:46,281 [main] TRACE es.aad.DbManager                         - El total de ventas del cliente 1 es 20.86
+2024-12-18 11:26:46,290 [main] TRACE es.aad.DbManager                         - Stock del producto 2 reducido
+2024-12-18 11:26:46,291 [main] DEBUG es.aad.DbManager                         - com.mysql.cj.jdbc.ClientPreparedStatement: SELECT * from Clientes WHERE ClienteID = 1
+2024-12-18 11:26:46,294 [main] DEBUG es.aad.DbManager                         - Conexion cerrada con exito
+2024-12-18 11:27:06,513 [main] DEBUG es.aad.DbManager                         - Conexion establecida
+2024-12-18 11:27:06,530 [main] DEBUG es.aad.Programa                          - Productos dados de alta transaccionalmente con exito
+2024-12-18 11:27:06,532 [main] TRACE es.aad.Programa                          - Commit realizado, los productos han sido dados de alta
+2024-12-18 11:27:06,588 [main] TRACE es.aad.DbManager                         - El total de ventas del cliente 1 es 20.86
+2024-12-18 11:27:06,601 [main] TRACE es.aad.DbManager                         - Stock del producto 2 reducido
+2024-12-18 11:27:06,608 [main] ERROR es.aad.DbManager                         - Error al ejecutar el PreparedStatement [Before start of result set]
+2024-12-18 11:27:06,612 [main] DEBUG es.aad.DbManager                         - Conexion cerrada con exito
+2024-12-18 11:27:43,618 [main] DEBUG es.aad.DbManager                         - Conexion establecida
+2024-12-18 11:27:43,634 [main] DEBUG es.aad.Programa                          - Productos dados de alta transaccionalmente con exito
+2024-12-18 11:27:43,667 [main] TRACE es.aad.Programa                          - Commit realizado, los productos han sido dados de alta
+2024-12-18 11:27:43,718 [main] TRACE es.aad.DbManager                         - El total de ventas del cliente 1 es 20.86
+2024-12-18 11:27:43,727 [main] TRACE es.aad.DbManager                         - Stock del producto 2 reducido
+2024-12-18 11:27:43,732 [main] ERROR es.aad.DbManager                         - Error al ejecutar el PreparedStatement [Before start of result set]
+2024-12-18 11:27:43,734 [main] DEBUG es.aad.DbManager                         - Conexion cerrada con exito
+2024-12-18 11:28:57,497 [main] DEBUG es.aad.DbManager                         - Conexion establecida
+2024-12-18 11:28:57,513 [main] DEBUG es.aad.Programa                          - Productos dados de alta transaccionalmente con exito
+2024-12-18 11:28:57,550 [main] TRACE es.aad.Programa                          - Commit realizado, los productos han sido dados de alta
+2024-12-18 11:28:57,603 [main] TRACE es.aad.DbManager                         - El total de ventas del cliente 1 es 20.86
+2024-12-18 11:28:57,612 [main] TRACE es.aad.DbManager                         - Stock del producto 2 reducido
+2024-12-18 11:28:57,616 [main] ERROR es.aad.DbManager                         - Error al ejecutar el PreparedStatement [Before start of result set]
+2024-12-18 11:28:57,619 [main] DEBUG es.aad.DbManager                         - Conexion cerrada con exito
+2024-12-18 11:29:05,147 [main] DEBUG es.aad.DbManager                         - Conexion establecida
+2024-12-18 11:29:05,163 [main] DEBUG es.aad.Programa                          - Productos dados de alta transaccionalmente con exito
+2024-12-18 11:29:05,165 [main] TRACE es.aad.Programa                          - Commit realizado, los productos han sido dados de alta
+2024-12-18 11:29:05,218 [main] TRACE es.aad.DbManager                         - El total de ventas del cliente 1 es 20.86
+2024-12-18 11:29:05,226 [main] TRACE es.aad.DbManager                         - Stock del producto 2 reducido
+2024-12-18 11:29:05,230 [main] ERROR es.aad.DbManager                         - Error al ejecutar el PreparedStatement [Before start of result set]
+2024-12-18 11:29:05,232 [main] DEBUG es.aad.DbManager                         - Conexion cerrada con exito
+2024-12-18 11:40:24,956 [main] DEBUG es.aad.DbManager                         - Conexion establecida
+2024-12-18 11:40:24,972 [main] DEBUG es.aad.Programa                          - Productos dados de alta transaccionalmente con exito
+2024-12-18 11:40:25,005 [main] TRACE es.aad.Programa                          - Commit realizado, los productos han sido dados de alta
+2024-12-18 11:40:25,055 [main] TRACE es.aad.DbManager                         - El total de ventas del cliente 1 es 20.86
+2024-12-18 11:40:25,063 [main] TRACE es.aad.DbManager                         - Stock del producto 2 reducido
+2024-12-18 11:40:25,066 [main] DEBUG es.aad.DbManager                         - Conexion cerrada con exito
+2024-12-18 11:40:41,469 [main] DEBUG es.aad.DbManager                         - Conexion establecida
+2024-12-18 11:40:41,485 [main] DEBUG es.aad.Programa                          - Productos dados de alta transaccionalmente con exito
+2024-12-18 11:40:41,486 [main] TRACE es.aad.Programa                          - Commit realizado, los productos han sido dados de alta
+2024-12-18 11:40:41,542 [main] TRACE es.aad.DbManager                         - El total de ventas del cliente 1 es 20.86
+2024-12-18 11:40:41,550 [main] TRACE es.aad.DbManager                         - Stock del producto 2 reducido
+2024-12-18 11:40:41,554 [main] ERROR es.aad.DbManager                         - Error al ejecutar el PreparedStatement [Before start of result set]
+2024-12-18 11:40:41,557 [main] DEBUG es.aad.DbManager                         - Conexion cerrada con exito
+2024-12-18 11:51:19,264 [main] DEBUG es.aad.DbManager                         - Conexion establecida
+2024-12-18 11:51:19,280 [main] DEBUG es.aad.Programa                          - Productos dados de alta transaccionalmente con exito
+2024-12-18 11:51:19,319 [main] TRACE es.aad.Programa                          - Commit realizado, los productos han sido dados de alta
+2024-12-18 11:51:19,367 [main] TRACE es.aad.DbManager                         - El total de ventas del cliente 1 es 20.86
+2024-12-18 11:51:19,376 [main] TRACE es.aad.DbManager                         - Stock del producto 1 reducido
+2024-12-18 11:51:19,383 [main] TRACE es.aad.DbManager                         - Stock del producto 1 reducido
+2024-12-18 11:51:19,393 [main] TRACE es.aad.DbManager                         - Stock del producto 2 reducido
+2024-12-18 11:51:19,393 [main] DEBUG es.aad.Programa                          - Stock de productos actualizado transaccionalmente con exito
+2024-12-18 11:51:19,394 [main] TRACE es.aad.Programa                          - Commit realizado, el stock de los productos dados ha sido reducido
+2024-12-18 11:51:19,400 [main] ERROR es.aad.DbManager                         - Error al ejecutar el PreparedStatement [Before start of result set]
+2024-12-18 11:51:19,403 [main] DEBUG es.aad.DbManager                         - Conexion cerrada con exito
+2024-12-18 11:53:46,290 [main] DEBUG es.aad.DbManager                         - Conexion establecida
+2024-12-18 11:53:46,306 [main] DEBUG es.aad.Programa                          - Productos dados de alta transaccionalmente con exito
+2024-12-18 11:53:46,308 [main] TRACE es.aad.Programa                          - Commit realizado, los productos han sido dados de alta
+2024-12-18 11:53:46,362 [main] TRACE es.aad.DbManager                         - El total de ventas del cliente 1 es 20.86
+2024-12-18 11:53:46,370 [main] TRACE es.aad.DbManager                         - Stock del producto 1 reducido
+2024-12-18 11:53:46,377 [main] TRACE es.aad.DbManager                         - Stock del producto 1 reducido
+2024-12-18 11:53:46,381 [main] TRACE es.aad.DbManager                         - Stock del producto 2 reducido
+2024-12-18 11:53:46,381 [main] DEBUG es.aad.Programa                          - Stock de productos actualizado transaccionalmente con exito
+2024-12-18 11:53:46,383 [main] TRACE es.aad.Programa                          - Commit realizado, el stock de los productos dados ha sido reducido
+2024-12-18 11:53:46,388 [main] ERROR es.aad.DbManager                         - Error al ejecutar el PreparedStatement [Before start of result set]
+2024-12-18 11:53:46,390 [main] DEBUG es.aad.DbManager                         - Conexion cerrada con exito
