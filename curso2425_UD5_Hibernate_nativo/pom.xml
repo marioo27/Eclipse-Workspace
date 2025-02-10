@@ -2,10 +2,10 @@
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>curso2425_UD05_Hibernate_1</groupId>
-	<artifactId>curso2425_UD05_Hibernate_1</artifactId>
+	<groupId>es.ciudadescolar</groupId>
+	<artifactId>curso2425_UD5_Hibernate_nativo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>curso2425_UD05_Hibernate_1</name>
+	<name>curso2425_UD5_Hibernate_nativo</name>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -15,35 +15,36 @@
 	</properties>
 
 	<dependencies>
-		<!-- https://mvnrepository.com/artifact/org.slf4j/slf4j-api -->
+
+		<!--  https://mvnrepository.com/artifact/org.slf4j/slf4j-api  -->
 		<dependency>
 			<groupId>org.slf4j</groupId>
 			<artifactId>slf4j-api</artifactId>
 			<version>2.0.16</version>
 		</dependency>
 
-		<!-- https://mvnrepository.com/artifact/ch.qos.logback/logback-classic -->
+		<!--  https://mvnrepository.com/artifact/ch.qos.logback/logback-classic  -->
 		<dependency>
 			<groupId>ch.qos.logback</groupId>
 			<artifactId>logback-classic</artifactId>
 			<version>1.5.12</version>
 		</dependency>
 
-		<!-- https://mvnrepository.com/artifact/ch.qos.logback/logback-core -->
+		<!--  https://mvnrepository.com/artifact/ch.qos.logback/logback-core  -->
 		<dependency>
 			<groupId>ch.qos.logback</groupId>
 			<artifactId>logback-core</artifactId>
 			<version>1.5.12</version>
 		</dependency>
 
-		<!-- https://mvnrepository.com/artifact/mysql/mysql-connector-java -->
+		<!--  https://mvnrepository.com/artifact/mysql/mysql-connector-java  -->
 		<dependency>
 			<groupId>mysql</groupId>
 			<artifactId>mysql-connector-java</artifactId>
 			<version>8.0.33</version>
 		</dependency>
 
-		<!-- https://mvnrepository.com/artifact/org.hibernate/hibernate-c3p0 -->
+		<!--  https://mvnrepository.com/artifact/org.hibernate/hibernate-c3p0  -->
 		<dependency>
 			<groupId>org.hibernate</groupId>
 			<artifactId>hibernate-c3p0</artifactId>
@@ -55,12 +56,6 @@
 			<artifactId>hibernate-core</artifactId>
 			<version>6.4.4.Final</version>
 		</dependency>
-		<dependency>
-			<groupId>jakarta.persistence</groupId>
-			<artifactId>jakarta.persistence-api</artifactId>
-			<version>3.1.0</version>
-		</dependency>
-
 	</dependencies>
 
 	<build>
@@ -75,6 +70,7 @@
 					<encoding>UTF-8</encoding>
 				</configuration>
 			</plugin>
+
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-source-plugin</artifactId>
@@ -89,6 +85,7 @@
 					</execution>
 				</executions>
 			</plugin>
+
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-assembly-plugin</artifactId>
@@ -103,7 +100,7 @@
 				<configuration>
 					<archive>
 						<manifest>
-							<mainClass>many2many_bidir_avanz_basic_jpa.Programa</mainClass>
+							<mainClass>hibernate_api_nativa.Programa</mainClass>
 						</manifest>
 					</archive>
 					<descriptorRefs>
@@ -111,6 +108,7 @@
 					</descriptorRefs>
 				</configuration>
 			</plugin>
+
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-javadoc-plugin</artifactId>
@@ -121,7 +119,5 @@
 				</configuration>
 			</plugin>
 		</plugins>
-
 	</build>
-
 </project>
