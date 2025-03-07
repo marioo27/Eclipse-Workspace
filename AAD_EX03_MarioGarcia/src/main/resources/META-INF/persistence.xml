@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persistence xmlns="https://jakarta.ee/xml/ns/persistence"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="https://jakarta.ee/xml/ns/persistence https://jakarta.ee/xml/ns/persistence/persistence_3_0.xsd"
+	version="3.0">
+	<persistence-unit name="PersistenciaPeliculas">
+		<!-- Aquí debemos indicar las clases a persistir que dispondrán de las correspondientes anotiaciones JPA-->
+		<class>es.MarioGarcia.Alumno</class>
+		<class>es.MarioGarcia.Contacto</class>
+		<class>es.MarioGarcia.Empresa</class>
+		<class>es.MarioGarcia.Tutor</class>
+		
+		<properties>
+			
+			<property name="hibernate.connection.autocommit" value="false" />
+			<!--  JPA está diseñado para manejar las transacciones explícitamente, agrupando operaciones según sea necesario. -->
+			
+			<property name="hibernate.format_sql" value="true" /> 
+			<!--  el SQL generado se mostrará con saltos de línea y sangría para que sea más fácil de leer. -->
+
+
+			<property name="hibernate.connection.isolation" value="4" />
+			<!--   Nivel de aislamiento considerado para las transacciones:
+    			1: TRANSACTION_READ_UNCOMMITTED
+    			2: TRANSACTION_READ_COMMITTED (valor predeterminado en MySQL)
+	    		4: TRANSACTION_REPEATABLE_READ (nivel predeterminado de MySQL InnoDB)
+    			8: TRANSACTION_SERIALIZABLE
+			-->
+			
+			<!-- c3p0 es una librería Java que proporciona una forma eficiente de 
+				gestionar las conexiones de BD. Concretamente, proporciona un pool de conexiones 
+				y gestiona muy bien la liberación de recursos (statements, resultsets, etc) 
+				Necesitamos añadir la correspondiente dependencia en el fichero pom.xml Algunas 
+				de las propiedades disponibles son: -->
+			
+			<property name="hibernate.c3p0.min_size" value="2" />
+			<!--  Número mínimo de conexiones en el pool --> 
+			
+			<property name="hibernate.c3p0.max_size" value="20" />
+			<!--  Número máximo de conexiones en el pool --> 
+			
+			<property name="hibernate.c3p0.timeout" value="300" />
+			<!--  Tiempo máximo de inactividad (en segundos) antes de que una conexión sea eliminada --> 
+			
+			<property name="hibernate.c3p0.max_statements" value="50" />
+			<!--  Número máximo de consultas preparadas que se pueden almacenar en caché --> 
+			
+			<property name="hibernate.c3p0.idle_test_period=" value="3000" />
+			<!--  Intervalo (en segundos) para verificar conexiones ociosas --> 
+			
+			<property name="hibernate.c3p0.acquire_increment=" value="5" />
+			<!--  Número de conexiones creadas cuando el pool necesita más conexiones --> 
+
+
+			<property name="hibernate.generate_statistics" value="false" />
+			<!--  Se activa la generación de estadísticas detalladas sobre el rendimiento de las operaciones. Penaliza rendimiento -->
+			
+			
+			<!-- Propiedades de configuración JDBC para la unidad de persistencia -->
+			<property name="jakarta.persistence.jdbc.driver" value="com.mysql.cj.jdbc.Driver" />
+			<property name="jakarta.persistence.jdbc.user" value="examen" />
+			<property name="jakarta.persistence.jdbc.password" value="examen" />
+			<property name="jakarta.persistence.jdbc.url" value="jdbc:mysql://127.0.0.1:3306/FCTs" />
+			
+		</properties>
+	</persistence-unit>
+</persistence>
